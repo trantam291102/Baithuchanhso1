@@ -1,6 +1,6 @@
 package Baithuchanh1502.src;
 import java.util.Scanner;
-public class App1 {
+public class App30 {
     public static void main(String[] args) {
         int n,sodu,sum = 0;
         try (Scanner scanner = new Scanner(System.in)) 
