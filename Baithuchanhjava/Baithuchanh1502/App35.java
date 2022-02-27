@@ -1,6 +1,6 @@
 package Baithuchanh1502.src;
 import java.util.Scanner;
-public class App2 {
+public class App35 {
     public static void main(String[] args) {
         int a, b;
         try (Scanner scanner = new Scanner(System.in)) {
