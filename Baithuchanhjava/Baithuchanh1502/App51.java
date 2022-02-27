@@ -1,8 +1,8 @@
 package Baithuchanh1502.src;
-public class App5 {
+public class App51 {
     public static void main(String[] args) {
         int a=0;
-        //Truong hop a<3 thi in gia tri cua bien va sau do tang len 1
+        //Trường hợp a<3 thì in giá trị của biến và sau đó tăng lên 1
         for (;a<5;) {
             System.out.println(a);
             a++;
