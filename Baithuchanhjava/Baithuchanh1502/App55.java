@@ -1,5 +1,5 @@
 package Baithuchanh1502.src;
-public class App6 {
+public class App55 {
 
     public static void main(String[] args) {
         System.out.println("Các số chia hết cho 5 là: ");
