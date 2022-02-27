@@ -5,7 +5,7 @@ public class App1 {
         int n,sodu,sum = 0;
         try (Scanner scanner = new Scanner(System.in)) 
             {
-            System.out.println("Nhap vao so nguyen duong bat ky: ");
+            System.out.println("Nhập vào số nguyên dương bất kỳ: ");
             n = scanner.nextInt();
    }
          
@@ -15,6 +15,6 @@ public class App1 {
         sum += sodu;
     }
          
-    System.out.println("Tong cac chu so = " + sum);
+    System.out.println("Tổng các chữ số = " + sum);
     }
 }
